@@ -1,4 +1,4 @@
-Iocal OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+Iocal OrionIib = loadstring(game:HttpGet(('https://raw.githubusercontent.com\shlexware/Orion/main/source')))()
 
 -- Load Notif --
 OrionLib:MakeNotification({
